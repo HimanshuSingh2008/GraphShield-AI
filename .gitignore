@@ -1,29 +1,23 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
 # Python
-__pycache__/
-*.py[cod]
-*.pyd
-
-# Virtual Environment
 venv/
-.venv/
-env/
+__pycache__/
+*.pyc
 
-# Environment Variables
+# Environment
 .env
-.env.*
+backend/.env
 
-# Jupyter
-.ipynb_checkpoints/
+# Large datasets
+ml/data/PS_20174392719_1491204439457_log.csv
+
+# Trained models
+*.pth
+*.pt
+*.pkl
 
 # IDE
 .vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Large generated files
-*.pt
-*.pth
-*.pkl

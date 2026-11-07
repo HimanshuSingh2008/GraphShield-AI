@@ -1,0 +1,10 @@
+GraphShield AI - Random Forest Baseline
+
+Dataset: PaySim
+Test transactions: 30,000
+
+Precision: 0.91
+Recall: 0.56
+F1-score: 0.70
+PR-AUC: 0.6965
+ROC-AUC: 0.9555

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# GraphShield-AI
+=======
 <div align="center">
 
 # 🛡️ GraphShield AI
@@ -397,3 +400,4 @@ If you find this project interesting, consider giving the repository a ⭐ on Gi
 *Building smarter fraud detection through AI and Graph Analytics.*
 
 </div>
+>>>>>>> 6ac079e236eca00a501edd4fcc3b57fc2161efca

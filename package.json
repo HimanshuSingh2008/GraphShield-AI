@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npm --prefix frontend run dev -- --host 127.0.0.1 --port 5173 --strictPort"
+  },
+  "dependencies": {
+    "@supabase/server": "^1.9.2"
+  }
+}
